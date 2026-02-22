@@ -100,7 +100,7 @@ Assist in visual storytelling for presentation
 📁 sql_queries  https://github.com/moupiyale002/Bongaigaon_market_feasibility/blob/main/Market_feasability.sql
 📁 powerbi  https://github.com/moupiyale002/Bongaigaon_market_feasibility/blob/main/Bongaigaon_market_feasibility_dashboard.pbix
 📁 ai_notebook  
-📁 presentation  
+📁 presentation  https://github.com/moupiyale002/Bongaigaon_market_feasibility/blob/main/Roadmap.png
 🧠 Business Outcome
 
 Identified optimal locations with high footfall and moderate competition
