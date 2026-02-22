@@ -98,7 +98,7 @@ Assist in visual storytelling for presentation
 📂 Repository Structure
 📁 dataset  
 📁 sql_queries  
-📁 powerbi  
+📁 powerbi  https://github.com/moupiyale002/Bongaigaon_market_feasibility/blob/main/Bongaigaon_market_feasibility_dashboard.pbix
 📁 ai_notebook  
 📁 presentation  
 🧠 Business Outcome
