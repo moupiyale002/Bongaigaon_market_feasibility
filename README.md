@@ -99,7 +99,7 @@ Assist in visual storytelling for presentation
 📁 dataset  https://github.com/moupiyale002/Bongaigaon_market_feasibility/blob/main/Bongaigaon_Restaurant_Feasibility_Dataset.xlsx
 📁 sql_queries  https://github.com/moupiyale002/Bongaigaon_market_feasibility/blob/main/Market_feasability.sql
 📁 powerbi  https://github.com/moupiyale002/Bongaigaon_market_feasibility/blob/main/Bongaigaon_market_feasibility_dashboard.pbix
-📁 ai_notebook  
+📁 ai_notebook  https://github.com/moupiyale002/Bongaigaon_market_feasibility/blob/main/The_Data-Driven_Restaurant%20(1).mp4
 📁 presentation  https://github.com/moupiyale002/Bongaigaon_market_feasibility/blob/main/Roadmap.png
 🧠 Business Outcome
 
